@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 day la mt 1
+=======
+day la mt 2
+>>>>>>> MT2
